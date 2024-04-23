@@ -46,7 +46,7 @@ SLCE is the local computing resource funded by CIDA (BERDxxxx) and consists of 5
 
 
 
-| |SLCE # 1|SLCE # 2| SLCE # 3| SLCE # 4| SLCE # 5| 
+| |SLCE # 1|SLCE # 2*| SLCE # 3*| SLCE # 4*| SLCE # 5*| 
 | --- | --- |---| --- |---| --- |
 |CPU | Intel Xeon Gold 6152 2.1G X (2) CPU, 44 cores|Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz (2 cores)|TBD|TBD|TBD
 |Disk storage|50TB|4TB|4TB|2TB|2TB|
@@ -54,6 +54,7 @@ SLCE is the local computing resource funded by CIDA (BERDxxxx) and consists of 5
 |OS |CentOS 7.x |Linux|Windows|Windows|Windows|
 |Software|R, R Studio, MatLab, Python, and Java|Fiji,Python, R, RStudio|R, RStudio, SAS, PASS, Git, Anaconda, Stata|R, RStudio, SAS, PASS, Git, Anaconda, Stata|R, RStudio, SAS, PASS, Git, Anaconda, Stata|
 
+*These workstations will be retired by the end of the next fiscal year, which is by the end of June 2024.
 
 
 #### Alpine\
